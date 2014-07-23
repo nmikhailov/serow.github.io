@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highliter:        pygems
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Serow
+tagline:          'Finance tracking system'
+description:      'Finance tracking system'
+url:              https://serow.github.io
+
+author:
+  name:           'Serow team'
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/serow/serow
